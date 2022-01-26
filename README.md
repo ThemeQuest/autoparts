@@ -7,3 +7,6 @@
   
 ### 2. WEBSITE
 ### 3. ANDROID APP
+
+### 4. DB DESIGN
+<img src="./dbdesign.png"/>
